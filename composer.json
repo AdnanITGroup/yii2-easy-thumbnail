@@ -1,7 +1,7 @@
 {
   "name": "AdnanITGroup/yii2-easy-thumbnail",
   "description": "Yii2 helper for creating and caching thumbnails on real time in easy way  & force it to the exact size",
-  "keywords": [“adnanitgroup”, “yii2", "thumbnail", "image", "helper"],
+  "keywords": ["adnanitgroup", "yii2", "thumbnail", "image", "helper"],
   "type": "yii2-extension",
   "version": "1.0.2",
   "license": "MIT",
